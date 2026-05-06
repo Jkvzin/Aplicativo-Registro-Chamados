@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Neutral Palette -->
+    <color name="white">#FFFFFF</color>
+    <color name="black">#000000</color>
+
+    <!-- Unified Professional Indigo Palette -->
+    <color name="primary_indigo">#5C6BC0</color>
+    <color name="primary_indigo_light">#9FA8DA</color>
+    <color name="primary_indigo_dark">#3F51B5</color>
+    <color name="on_primary">#FFFFFF</color>
+
+    <!-- Light Theme Colors (Required by themes.xml) -->
+    <color name="md_theme_light_background">#F7FAFC</color>
+    <color name="text_high_emphasis_light">#1A202C</color>
+    <color name="text_medium_emphasis_light">#4A5568</color>
+
+    <!-- Dark Theme Colors (Modern & High Contrast) -->
+    <color name="dark_background">#1A202C</color> <!-- Matte Charcoal -->
+    <color name="dark_surface">#2D3748</color> <!-- Surface Container Gray - Used for Cards & Inputs -->
+    <color name="dark_on_surface">#FFFFFF</color>
+    <color name="dark_on_surface_variant">#E2E8F0</color>
+
+    <!-- Functional Colors -->
+    <color name="error">#E53E3E</color>
+    <color name="status_badge_bg">#265C6BC0</color> <!-- 15% Alpha Indigo -->
+    <color name="text_hint_dark">#A0AEC0</color>
+</resources>

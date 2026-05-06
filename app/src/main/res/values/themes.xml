@@ -1,0 +1,16 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <!-- Base application theme. -->
+    <style name="Base.Theme.TrabalhoPratico1" parent="Theme.Material3.DayNight.NoActionBar">
+        <!-- Customize your light theme here. -->
+        <item name="colorPrimary">@color/primary_indigo</item>
+        <item name="colorOnPrimary">@color/white</item>
+        <item name="colorPrimaryContainer">@color/primary_indigo_light</item>
+        <item name="colorOnPrimaryContainer">@color/primary_indigo_dark</item>
+
+        <item name="android:windowBackground">@color/md_theme_light_background</item>
+        <item name="android:textColorPrimary">@color/text_high_emphasis_light</item>
+        <item name="android:textColorSecondary">@color/text_medium_emphasis_light</item>
+    </style>
+
+    <style name="Theme.TrabalhoPratico1" parent="Base.Theme.TrabalhoPratico1" />
+</resources>
